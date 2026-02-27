@@ -1,7 +1,7 @@
 
 # FINM3422 – Financial Modelling & Analytics for Finance (Course Repo)
 
-This repository contains **lecture and tutorial materials** for FINM3422 at The University of Queensland.
+This repository contains **lecture and tutorial materials** for FINM3422 at The University of Queensland
 
 ## What this repo is
 
